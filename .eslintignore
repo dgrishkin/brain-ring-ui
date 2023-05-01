@@ -1,0 +1,5 @@
+.eslintrc.js
+public/
+build/
+**/__tests__/**
+**/__mocks__/**
